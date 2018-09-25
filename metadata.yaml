@@ -1,5 +1,5 @@
 _repo: Novelle-Napolitane_57040
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Croce, Benedetto
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3007'
     url: http://www.gutenberg.org/2009/agents/3007
     wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
+covers:
+- cover_type: archival
+  image_path: 57040-h/images/cover.jpg
 creator:
   author:
     agent_name: Di Giacomo, Salvatore
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34219
     wikipedia: http://it.wikipedia.org/wiki/Salvatore_Di_Giacomo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57040#Novelle-Napolitane
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2018-04-24'
 gutenberg_type: Text
